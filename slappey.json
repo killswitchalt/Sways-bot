@@ -1,0 +1,7 @@
+{
+  "name": "Sways-Bot",
+  "language": "javascript",
+  "manager": "npm",
+  "token": "i",
+  "prefix": "-sr"
+}
